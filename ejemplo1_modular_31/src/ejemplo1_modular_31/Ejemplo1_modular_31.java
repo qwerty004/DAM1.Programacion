@@ -74,9 +74,6 @@ public class Ejemplo1_modular_31 {
                 case 7:               
                     System.out.println("Ha elegido salir");
                     break;
-                default:
-                    System.out.println("Opción mal introducida");
-                    break;
 
             }
 
